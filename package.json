@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Cogdof/2019_Capstone-design#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "nodemon": "^1.19.3",
     "python-shell": "^1.0.8",
     "socket.io": "^2.3.0",
